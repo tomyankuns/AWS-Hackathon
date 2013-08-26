@@ -69,5 +69,5 @@
 	* http://www.slideshare.net/AmazonWebServicesJapan/aws-basic-20120629
 	* http://www.slideshare.net/AmazonWebServicesJapan/aws-amazon-elastic-compute-cloud-ec2
 	* http://www.slideshare.net/AmazonWebServicesJapan/20130327-aws-meisterregenerates3public
-	* http://www.slideshare.net/AmazonWebServicesJapan/awsa
 	* http://www.slideshare.net/AmazonWebServicesJapan/20130612-aws-meisterregenerateelbpublic
+	* http://www.slideshare.net/AmazonWebServicesJapan/awsa
