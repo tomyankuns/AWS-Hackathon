@@ -7,7 +7,7 @@
 ---
 * イベントやIT勉強会で撮った写真を投稿し、共有するサイトを企画・提案してください。
 * サイトの概要は以下のとおりです。
-	* ***絵付きで後から書く***
+![写真投稿サイトのイメージ図](https://s3-ap-northeast-1.amazonaws.com/aws-hackathon/RFP-images/image.jpg) 
 * サイトのサンプル
 	* ***後からLINKを書く***
 
