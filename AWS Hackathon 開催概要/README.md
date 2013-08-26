@@ -65,4 +65,9 @@
 ###4.その他
 ---
 * 各チームに1つ、AWSのアカウントを配布します。（AWSの費用は運営側で負担します）
-* 
+* 事前に以下を一読しておくと、当日の理解が早くなります。
+	* http://www.slideshare.net/AmazonWebServicesJapan/aws-basic-20120629
+	* http://www.slideshare.net/AmazonWebServicesJapan/aws-amazon-elastic-compute-cloud-ec2
+	* http://www.slideshare.net/AmazonWebServicesJapan/20130327-aws-meisterregenerates3public
+	* http://www.slideshare.net/AmazonWebServicesJapan/awsa
+	* http://www.slideshare.net/AmazonWebServicesJapan/20130612-aws-meisterregenerateelbpublic
