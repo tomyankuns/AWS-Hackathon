@@ -17,8 +17,8 @@
 ---
 2日間かけてイベントを進めていきます。主な流れは以下のとおりです。
 
-	Day1：ルールや説明・質疑を行い、システムの検討とプレゼン（発表）を行います  
-	Day2：検討したシステムを作成して動かし、結果をプレゼンします
+	◯Day1：ルールや説明・質疑を行い、システムの検討とプレゼン（発表）を行います  
+	◯Day2：検討したシステムを作成して動かし、結果をプレゼンします
 
 詳細なタイムスケジュールは以下のとおりです。
 
@@ -71,3 +71,4 @@
 	* http://www.slideshare.net/AmazonWebServicesJapan/20130327-aws-meisterregenerates3public
 	* http://www.slideshare.net/AmazonWebServicesJapan/20130612-aws-meisterregenerateelbpublic
 	* http://www.slideshare.net/AmazonWebServicesJapan/awsa
+	* http://goo.gl/7drNX
