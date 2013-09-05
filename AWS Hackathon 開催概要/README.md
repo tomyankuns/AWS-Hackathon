@@ -1,6 +1,6 @@
 #AWS Hackathon 開催概要
 
-***update:130826-01***
+***update:130905-01***
 
 
 ###学生のみなさん、普段授業でやらない実践的なシステムの提案・設計・構築・グループワークを体験し、優れたシステムを構築してみましょう！
@@ -8,8 +8,8 @@
 <br>
 ###1.何をするのか
 ---
-* 皆さんには、RFP（Request For Proposal : 提案依頼書）に基づき、チームに分かれてシステムを検討・提案し、実際に作成してもらいます
-	* [RFPはこちらです](https://github.com/tomyankuns/AWS-Hackathon/blob/master/RFP/README.md)
+* 皆さんには、RFP（Request For Proposal : 提案依頼書）に基づき、チームに分かれてシステムを検討・提案し、実際にプロトタイプ（動作するもの）を完成させてもらいます
+	* [RFPはこちら](https://github.com/tomyankuns/AWS-Hackathon/blob/master/RFP/README.md)です
 * RFPに書かれているモノを作りました、動きました、以上！では、競合他社より競争力のあるシステムを提供する事はできません。優れたシステムとは、顧客の期待を超えるものでなくてはなりません。即ち、RFPに書かれていなくとも考慮すべき事が設計に盛り込まれ、利用するに当たり心地よいUI（User Interface）が提供され、時に遊び心が施され、それらがなるべく既存の技術・サービス・OSSを組み合わせて、安く・速く・安定したシステムをデリバリーする事が重要になります。また、顧客の満足度を上げるためには、適切なタイミングで中間レビューを行い、要件との齟齬が無いことを確認しつつ、且つ顧客に安心感を持って貰うような"進め方"も重要になります。
 * 皆さんには、上記のような優れたシステムを考え、実際に作成して動かし、プレゼンをしてもらいます。
 
@@ -60,11 +60,11 @@
 	- 処理の正確さ
 	- 写真投稿サイトのユニークさ・面白さ
 	- ＋αな要素
-* その他
 
-###4.その他
----
-* 各チームに1つ、AWSのアカウントを配布します。（AWSの費用は運営側で負担します）
+###4.運営からのアドバイス
+* 時間配分をしっかりしないと、やり切ることは難しいです。やるべきことの優先度・所要時間の見積もりを常に意識し、作業を分担して進めましょう。
+* システムの提案作成にあたっては、求められる要件が網羅できているか、再度チェックしましょう。
+* 不明な点や解釈が分かれる点は、確認して腹落とししてから進めましょう。
 * 事前に以下を一読しておくと、当日の理解が早くなります。
 	* http://www.slideshare.net/AmazonWebServicesJapan/aws-basic-20120629
 	* http://www.slideshare.net/AmazonWebServicesJapan/aws-amazon-elastic-compute-cloud-ec2
@@ -72,3 +72,8 @@
 	* http://www.slideshare.net/AmazonWebServicesJapan/20130612-aws-meisterregenerateelbpublic
 	* http://www.slideshare.net/AmazonWebServicesJapan/awsa
 	* http://goo.gl/7drNX
+* **既に勝負は始まっています！**
+
+###5.その他
+---
+* 各チームに1つ、AWSのアカウントを配布します。（AWSの費用は運営側で負担します）
