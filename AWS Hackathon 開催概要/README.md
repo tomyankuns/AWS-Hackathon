@@ -88,7 +88,9 @@
 	* http://www.slideshare.net/AmazonWebServicesJapan/20130327-aws-meisterregenerates3public
 	* http://www.slideshare.net/AmazonWebServicesJapan/20130612-aws-meisterregenerateelbpublic
 	* http://www.slideshare.net/AmazonWebServicesJapan/awsa
-	* http://goo.gl/7drNX
+	* [Cloud Design Pattern](http://goo.gl/7drNX)
+	* [その他、AWSサービス毎の資料](http://aws.amazon.com/jp/aws-jp-introduction/)
+
 * **既に勝負は始まっています！**
 
 ###5.その他
