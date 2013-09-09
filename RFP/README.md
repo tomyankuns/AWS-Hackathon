@@ -84,8 +84,7 @@
 	- 以下のフォーマットで、クライアントからREST渡しされます
 
 		|Input File Path|加工リクエスト|  
-		|https://s3-ap-northeast-1.amazonaws.com/imagedata-abs/input/org.jpg|  
-		bordercolor Yellow|
+		|https://s3-ap-northeast-1.amazonaws.com/imagedata-abs/input/org.jpg|bordercolor Yellow|
 
 
 
