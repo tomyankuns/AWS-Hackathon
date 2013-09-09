@@ -9,14 +9,14 @@
 * サイトの概要は以下のとおりです。
 ![写真投稿サイトのイメージ図](https://s3-ap-northeast-1.amazonaws.com/aws-hackathon/RFP-images/image.jpg) 
 
-###2.イベント特別ルール（COMING SOON!）
+###2.イベント特別ルール
 ---
 
 * 今回は時間の制約とゲーム性を鑑み、以下のルールを設けます。  
 * 投稿する写真は、このイベント（AWS Hackation）で撮影した写真とします。 
 	* 写真の仕様
 		* 1枚当たりの写真のサイズは0.3MB程度とします。 (貸出すコンデジのサイズSで撮影）  
-　 		* 枚数は50枚程度（以上）を目安とします。
+		* 写真の枚数は50枚程度（以上）を目安とします。
 	* エラー処理については、後述の要件に記載する機能のみ実装を必須とします。
 	* セキュリティの実装については、後述の要件に記載する必要最小限のみとします。
 
@@ -24,7 +24,7 @@
 ---
 
 1. 環境
-	* 弊社が利用する**Amazon Web Services**（以下、AWSと言う）上に、環境を構築してください。　
+	* 弊社が利用するAmazon Web Services（以下、AWSと言う）上に、環境を構築してください。　
 	* AWSのアカウントは弊社から提供します。
 2. 写真投稿サイト
 	* クライアントからリクエスト（加工対象の画像のパスや指定の加工方法）が引き渡されます。
@@ -42,9 +42,8 @@
 	* サーバーノードの画像加工処理ログは、以下の条件で出力し保管してください。
 		- ログのフォーマット
 
-			|DateTime|Host name|Code|File name(Input)|
-			|-:-|-:-|-:-|-:-|
-			|2013-09-10 10:30:15|ec2-54-250-228-141.ap-northeast-1.compute.amazonaws.com|000|hogehoge.jpg|
+		|DateTime|Host name|Code|File name(Input)|  
+		|2013-09-10 10:30:15|ec2-54-250-228-141.ap-northeast-1.compute.amazonaws.com|000|hogehoge.jpg|
 
 		- ログの出力先（保管先）
 			- 開催当日に連絡します
@@ -82,8 +81,7 @@
 1. Inputの写真の受け渡し
 	- 以下のフォーマットで、クライアントからREST渡しされます
 	
-		|Input File Path|加工リクエスト|
-		|-:-|-:-|
+		|Input File Path|加工リクエスト|  
 		|https://s3-ap-northeast-1.amazonaws.com/imagedata-abs/input/org.jpg|bordercolor Yellow|
 
 	- Inputの写真は、各チームで撮影の上、以下の場所に保管してください。
