@@ -82,7 +82,8 @@
 	- 以下のフォーマットで、クライアントからREST渡しされます
 	
 		|Input File Path|加工リクエスト|  
-		|https://s3-ap-northeast-1.amazonaws.com/imagedata-abs/input/org.jpg|bordercolor Yellow|
+		|https://s3-ap-northeast-1.amazonaws.com/imagedata-abs/input/org.jpg|  
+		bordercolor Yellow|
 
 	- Inputの写真は、各チームで撮影の上、以下の場所に保管してください。
 		- Amazon S3上に、チーム名の名前を付けたBacketを作成してください。
