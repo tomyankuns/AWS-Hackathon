@@ -42,8 +42,8 @@
 	* サーバーノードの画像加工処理ログは、以下の条件で出力し保管してください。
 		- ログのフォーマット
 
-		|DateTime|Host name|Code|File name(Input)|  
-		|2013-09-10 10:30:15|ec2-54-250-228-141.ap-northeast-1.compute.amazonaws.com|000|hogehoge.jpg|
+		| DateTime | Host name | Code | File name(Input) |  
+		| 2013-09-10 10:30:15 | ec2-54-250-228-141.ap-northeast-1.compute.amazonaws.com | 000 | hogehoge.jpg |
 
 		- ログの出力先（保管先）
 			- 開催当日に連絡します
@@ -83,8 +83,8 @@
 		- Amazon S3上に、チーム名の名前を付けたBacketを作成してください。
 	- 以下のフォーマットで、クライアントからREST渡しされます
 
-		|Input File Path|加工リクエスト|  
-		|https://s3-ap-northeast-1.amazonaws.com/imagedata-abs/input/org.jpg|bordercolor Yellow|
+		| Input File Path | 加工リクエスト |  
+		| https://s3-ap-northeast-1.amazonaws.com/imagedata-abs/input/org.jpg | bordercolor Yellow|
 
 
 
